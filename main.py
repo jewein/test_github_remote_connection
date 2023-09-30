@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+# 这个项目是用来测试Pycharm的使用的
+#这个项目名叫test_github_remote_connection
